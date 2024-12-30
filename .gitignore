@@ -25,6 +25,7 @@ replay_pid*
 
 # secret
 .env
+.env.*
 
 # Intellij
 .idea/

@@ -1,6 +1,6 @@
 spring:
-  config:
-    import: 'aws-parameterstore:/prod/'
+#  config:
+#    import: 'aws-parameterstore:/prod/'
   jpa:
     hibernate:
       ddl-auto: validate

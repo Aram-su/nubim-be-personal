@@ -1,6 +1,6 @@
 spring:
-  config:
-    import: 'aws-parameterstore:/dev/'
+#  config:
+#    import: 'aws-parameterstore:/dev/'
   jpa:
     hibernate:
       ddl-auto: update
